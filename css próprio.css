@@ -1,0 +1,44 @@
+body {background-color: #585858;}
+.margin-up{margin-top: 100px;}
+.text-link{
+    text-decoration:none;
+}
+.my-btn{
+    color: #fff;
+  background-color: #585858;
+  border-color: #585858;
+  text-decoration: none;
+}
+.link{
+    text-decoration: white;
+} 
+  .button-efect{
+    transition: all 0.5s;
+    cursor: pointer;
+  }
+
+  .button-efect:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+.accordion-button{
+  background-color: #848484;
+  color: #fff;
+}
+.collapsed{
+  background-color: #848484;
+  color:#fff;
+}
+.color{
+  background-color: #fff;
+}
+.padding{
+  padding-bottom: 20px;
+}
+.color1{
+  background-color: #2E2E2E;
+}
+
+.bk-color{
+  background-color: black;
+}
